@@ -1,0 +1,11 @@
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\bin\Debug\JomsCalculator.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\bin\Debug\JomsCalculator.exe
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\bin\Debug\JomsCalculator.pdb
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\bin\Debug\JomsCalculator.xml
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\obj\Debug\JomsCalculator.vbprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\obj\Debug\JomsCalculator.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\obj\Debug\JomsCalculator.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\obj\Debug\JomsCalculator.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\obj\Debug\JomsCalculator.exe
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\obj\Debug\JomsCalculator.xml
+c:\users\acer\documents\visual studio 2015\Projects\JomsCalculator\JomsCalculator\obj\Debug\JomsCalculator.pdb
